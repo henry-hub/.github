@@ -3,3 +3,4 @@ rules:
   - base: main
     upstream: ihub-pub:main
     mergeMethod: hardreset
+    mergeUnstable: true
